@@ -259,12 +259,12 @@ footer {
 
 .icon-text-icon {
   float: left;
-  width: 20%;
+  width: 8%;
   padding: 4%;
 }
 .icon-text-text {
   float: left;
-  width: 60%;
+  width: 78%;
   padding: 4% 4% 2% 0;
 }
 
@@ -273,7 +273,7 @@ footer {
 }
 
 .footer-nav a {
-  font-size: 200%;
+  font-size: 180%;
   color: #52A5C5;
   font-weight: 300;
 }
