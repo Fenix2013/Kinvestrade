@@ -259,12 +259,12 @@ footer {
 
 .icon-text-icon {
   float: left;
-  width: 5%;
+  width: 20%;
   padding: 4%;
 }
 .icon-text-text {
   float: left;
-  width: 78%;
+  width: 60%;
   padding: 4% 4% 2% 0;
 }
 
@@ -273,7 +273,7 @@ footer {
 }
 
 .footer-nav a {
-  font-size: 180%;
+  font-size: 200%;
   color: #52A5C5;
   font-weight: 300;
 }
@@ -288,13 +288,13 @@ footer {
 }
 
 .social li {
-  display: inline-block;
+  display: inline;
 }
 
 .social i {
-  font-size: 340%;
+  font-size: 400%;
   margin: 1%;
-  padding: -20%;
+  padding: 2%;
   color: #52A5C5;
 }
 
