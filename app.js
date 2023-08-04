@@ -1,0 +1,1 @@
+    document.querySelector('#menu-icon').addEventListener('click', () => {document.querySelector('nav ul, nav:active ul').classList.toggle('show')})
